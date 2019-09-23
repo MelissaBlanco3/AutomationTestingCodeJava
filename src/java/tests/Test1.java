@@ -11,7 +11,7 @@ import java.lang.reflect.Method;
 public class Test1 extends BaseTest {
 
 
-/*
+
     @Test(priority = 1, description = "Searching words in google")
     public void googleSearch(Method method) throws Exception {
 
@@ -42,7 +42,7 @@ public class Test1 extends BaseTest {
 
 
     }
-*/
+
     @Test(priority = 3, description = "Test intended to fail 2", groups={"beer"})
     public void failTest3(Method method) throws Exception {
 
@@ -50,7 +50,7 @@ public class Test1 extends BaseTest {
 
         Assert.assertEquals("vegeta","picoro");
 
-//fail status + screenshot
+
     }
 
 

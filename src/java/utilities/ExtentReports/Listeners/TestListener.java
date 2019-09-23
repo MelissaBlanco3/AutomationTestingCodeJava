@@ -56,20 +56,10 @@ public class TestListener extends BaseTest implements ITestListener {
     @Override
     public void onTestFailure(ITestResult iTestResult) {
         System.out.println("I am in onTestFailure method " + getTestMethodName(iTestResult) + " failed");
-/*
-        String methodName=iTestResult.getName().toString().trim();
-        ITestContext context = iTestResult.getTestContext();
-        WebDriver driver = (WebDriver)context.getAttribute("driver");
-        takeScreenShot(methodName, driver);
 
-*/
-        //Get driver from BaseTest and assign to local webDriver variable.
         Object testClass = iTestResult.getInstance();
         WebDriver driver = ((BaseTest) testClass).getDriver();
         String name =driver.getCurrentUrl();
-        //Take base64Screenshot screenshot.
-       // ITestContext context = iTestResult.getTestContext();
-       // WebDriver driver = (WebDriver)context.getAttribute("driver");
 
         String base64Screenshot = "data:image/png;base64," + ((TakesScreenshot) driver).
                 getScreenshotAs(OutputType.BASE64);

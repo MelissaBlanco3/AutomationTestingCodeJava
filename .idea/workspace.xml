@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7f5c3f4-2ae0-49a9-b165-ac9b62ce3ee4" name="Default Changelist" comment="" />
+    <list default="true" id="a7f5c3f4-2ae0-49a9-b165-ac9b62ce3ee4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/pages/ResultsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/pages/ResultsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/tests/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/tests/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/tests/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/utilities/ExtentReports/ExtentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/utilities/ExtentReports/ExtentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/utilities/ExtentReports/Listeners/Retry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/utilities/ExtentReports/Listeners/Retry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/utilities/ExtentReports/Listeners/TestListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/utilities/ExtentReports/Listeners/TestListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/utilities/ExtentReports/TestReports/ExtentReportResults.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/utilities/ExtentReports/TestReports/ExtentReportResults.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/ResultsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/ResultsPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tests/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/Test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/ExtentReports/Listeners/Retry.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utilities/ExtentReports/Listeners/Retry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/ExtentReports/Listeners/TestListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utilities/ExtentReports/Listeners/TestListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utilities/ExtentReports/TestReports/ExtentReportResults.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utilities/ExtentReports/TestReports/ExtentReportResults.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,31 +32,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/utilities/ExtentReports/Listeners/TestListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="47" selection-start-line="47" selection-end-line="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8.jar!/org/testng/internal/Invoker.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12784">
-              <caret line="799" selection-start-line="799" selection-end-line="799" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java/tests/Test1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="48" column="33" lean-forward="true" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+            <state relative-caret-position="306">
+              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -49,21 +44,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8.jar!/org/testng/internal/TestMethodWorker.class">
+        <entry file="file://$PROJECT_DIR$/src/java/tests/BaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1275">
-              <caret line="92" selection-start-line="92" selection-end-line="92" />
+            <state relative-caret-position="544">
+              <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#812#813#0" expanded="true" />
+                <element signature="e#902#903#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8.jar!/org/testng/TestRunner.class">
+        <entry file="file://$PROJECT_DIR$/src/java/utilities/ExtentReports/Listeners/TestListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8483">
-              <caret line="579" column="7" selection-start-line="579" selection-start-column="7" selection-end-line="579" selection-end-column="7" />
+            <state relative-caret-position="289">
+              <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utilities/TestReports/ExtentReports/ExtentReportResults.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -72,13 +80,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8.jar!/org/testng/ClassMethodMap.class">
+        <entry file="file://$PROJECT_DIR$/src/java/utilities/ExtentReports/ExtentTestManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="952">
-              <caret line="69" selection-start-line="69" selection-end-line="69" />
+            <state relative-caret-position="459">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
               <folding>
-                <element signature="e#2255#2256#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Suite.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -95,11 +112,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java/utilities/ExtentReports/Listeners/AnnotationTransformer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="204">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -110,8 +127,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java/utilities/ExtentReports/Listeners/Retry.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="25" column="94" lean-forward="true" selection-start-line="25" selection-start-column="94" selection-end-line="25" selection-end-column="94" />
+            <state relative-caret-position="68">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -162,18 +179,18 @@
         <option value="$PROJECT_DIR$/src/test/resource/demo.feature" />
         <option value="$PROJECT_DIR$/src/java/utilities/Cucumber/demo.feature" />
         <option value="$PROJECT_DIR$/src/java/utilities/ExtentReports/TEST2.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/java/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/java/utilities/ExtentReports/ExtentReporterNG.java" />
+        <option value="$PROJECT_DIR$/src/java/utilities/DriverManager.java" />
+        <option value="$PROJECT_DIR$/src/java/pages/ResultsPage.java" />
+        <option value="$PROJECT_DIR$/src/java/utilities/ExtentReports/Listeners/Retry.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/java/utilities/ExtentReports/ExtentManager.java" />
         <option value="$PROJECT_DIR$/src/java/utilities/ExtentReports/ExtentTestManager.java" />
         <option value="$PROJECT_DIR$/Suite.xml" />
-        <option value="$PROJECT_DIR$/src/java/utilities/ExtentReports/ExtentReporterNG.java" />
-        <option value="$PROJECT_DIR$/src/java/pages/ResultsPage.java" />
-        <option value="$PROJECT_DIR$/src/java/utilities/DriverManager.java" />
         <option value="$PROJECT_DIR$/src/java/tests/Test1.java" />
-        <option value="$PROJECT_DIR$/src/java/utilities/ExtentReports/ExtentManager.java" />
-        <option value="$PROJECT_DIR$/src/java/tests/BaseTest.java" />
         <option value="$PROJECT_DIR$/src/java/utilities/ExtentReports/Listeners/TestListener.java" />
-        <option value="$PROJECT_DIR$/src/java/utilities/ExtentReports/Listeners/Retry.java" />
+        <option value="$PROJECT_DIR$/src/java/tests/BaseTest.java" />
       </list>
     </option>
   </component>
@@ -184,11 +201,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="269" />
-    <option name="y" value="41" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-97" />
+    <option name="y" value="5" />
+    <option name="width" value="1378" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -196,6 +213,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -219,26 +237,17 @@
               <item name="test1" type="b2602c69:ProjectViewProjectNode" />
               <item name="test1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AutomationTestingCodeJava/test1" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/AutomationTestingCodeJava-master" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -248,6 +257,9 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="pages" />
       <recent name="tests" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mebe\IdeaProjects\test1\utilities\TestReports\ExtentReports" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mebe\IdeaProjects\test1\src\java\utilities" />
@@ -269,6 +281,14 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG.C:/Users/mebe/IdeaProjects/test1/Suite.xml">
+    <configuration name="All in test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C:/Users/mebe/IdeaProjects/test1/Suite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="test1" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/Suite.xml" />
@@ -299,59 +319,60 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.C:/Users/mebe/IdeaProjects/test1/Suite.xml" />
+        <item itemvalue="JUnit.All in test1" />
         <item itemvalue="TestNG.Test1" />
       </list>
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_mebe_IdeaProjects_test1_Suite_xml - 2019.09.20 at 14h 45m 46s.xml">
+    <history-entry file="C__Users_mebe_IdeaProjects_test1_Suite_xml - 2019.09.20 at 16h 14m 01s.xml">
       <configuration name="C:/Users/mebe/IdeaProjects/test1/Suite.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_mebe_IdeaProjects_test1_Suite_xml - 2019.09.20 at 14h 46m 02s.xml">
+    <history-entry file="C__Users_mebe_IdeaProjects_test1_Suite_xml - 2019.09.20 at 16h 14m 48s.xml">
       <configuration name="C:/Users/mebe/IdeaProjects/test1/Suite.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_mebe_IdeaProjects_test1_Suite_xml - 2019.09.20 at 14h 46m 41s.xml">
+    <history-entry file="All_in_test1 - 2019.09.20 at 16h 17m 05s.xml">
+      <configuration name="All in test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="C__Users_mebe_IdeaProjects_test1_Suite_xml - 2019.09.20 at 16h 17m 53s.xml">
       <configuration name="C:/Users/mebe/IdeaProjects/test1/Suite.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_mebe_IdeaProjects_test1_Suite_xml - 2019.09.20 at 14h 52m 26s.xml">
+    <history-entry file="C__Users_mebe_IdeaProjects_test1_Suite_xml - 2019.09.20 at 16h 18m 59s.xml">
       <configuration name="C:/Users/mebe/IdeaProjects/test1/Suite.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_mebe_IdeaProjects_test1_Suite_xml - 2019.09.20 at 14h 54m 44s.xml">
+    <history-entry file="C__Users_mebe_IdeaProjects_test1_Suite_xml - 2019.09.21 at 21h 21m 01s.xml">
       <configuration name="C:/Users/mebe/IdeaProjects/test1/Suite.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_mebe_IdeaProjects_test1_Suite_xml - 2019.09.20 at 14h 56m 37s.xml">
+    <history-entry file="C__Users_mebe_IdeaProjects_test1_Suite_xml - 2019.09.22 at 20h 03m 36s.xml">
       <configuration name="C:/Users/mebe/IdeaProjects/test1/Suite.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_mebe_IdeaProjects_test1_Suite_xml - 2019.09.20 at 14h 56m 51s.xml">
+    <history-entry file="C__Users_mebe_IdeaProjects_test1_Suite_xml - 2019.09.22 at 20h 06m 18s.xml">
       <configuration name="C:/Users/mebe/IdeaProjects/test1/Suite.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_mebe_IdeaProjects_test1_Suite_xml - 2019.09.20 at 15h 02m 27s.xml">
+    <history-entry file="C__Users_mebe_IdeaProjects_test1_Suite_xml - 2019.09.22 at 20h 25m 25s.xml">
       <configuration name="C:/Users/mebe/IdeaProjects/test1/Suite.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_mebe_IdeaProjects_test1_Suite_xml - 2019.09.20 at 15h 03m 29s.xml">
-      <configuration name="C:/Users/mebe/IdeaProjects/test1/Suite.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_mebe_IdeaProjects_test1_Suite_xml - 2019.09.20 at 15h 05m 34s.xml">
+    <history-entry file="C__Users_mebe_IdeaProjects_test1_Suite_xml - 2019.09.22 at 20h 26m 06s.xml">
       <configuration name="C:/Users/mebe/IdeaProjects/test1/Suite.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="269" y="41" width="1382" height="784" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31240544" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3267776" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7542644" weight="0.082162164" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.4443243" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7542644" visible="true" weight="0.3050571" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.44324324" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.2457356" side_tool="true" weight="0.32756758" />
-      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49626866" weight="0.3372973" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49626866" weight="0.3360522" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -360,20 +381,20 @@
       <window_info anchor="right" id="Coverage" order="5" side_tool="true" visible="true" weight="0.015991472" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33102345" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3214826" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7542644" weight="0.32756758" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7542644" visible="true" weight="0.3050571" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.44324324" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.2457356" side_tool="true" weight="0.32756758" />
-      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49626866" weight="0.32864866" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49626866" weight="0.3360522" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -393,15 +414,9 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/java/utilities/ExtentReports/Listeners/TestListener.java</url>
-          <line>73</line>
+          <line>63</line>
           <properties />
           <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/java/utilities/ExtentReports/Listeners/TestListener.java</url>
-          <line>68</line>
-          <properties />
-          <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/java/utilities/ExtentReports/Listeners/Retry.java</url>
@@ -426,7 +441,6 @@
     <SUITE FILE_PATH="coverage/test1$C__Users_mebe_IdeaProjects_test1_Suite_xml.ic" NAME="$PROJECT_DIR$/Suite.xml Coverage Results" MODIFIED="1559592657306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java/tests/TEST44.java" />
     <entry file="file://$PROJECT_DIR$/target/classes/tests/Test1.class" />
     <entry file="file://$PROJECT_DIR$/src/java/Report.java" />
     <entry file="file://$PROJECT_DIR$/src/java/utilities/TestReport/BasicExtentReport.java" />
@@ -498,26 +512,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java/utilities/ExtentReports/ExtentReporterNG.java" />
-    <entry file="file://$PROJECT_DIR$/src/java/pages/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/pages/ResultsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/ExtentReports.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -602,27 +596,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Suite.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/utilities/ExtentReports/ExtentManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="148" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="148" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="53" lean-forward="true" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java/utilities/DriverManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -637,28 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
           <caret line="71" selection-start-line="71" selection-end-line="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/tests/BaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-            <element signature="e#516#517#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/utilities/ExtentReports/ExtentTestManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -690,33 +641,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/utilities/ExtentReports/Listeners/TestListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8.jar!/org/testng/internal/Invoker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12784">
-          <caret line="799" selection-start-line="799" selection-end-line="799" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/tests/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="48" column="33" lean-forward="true" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8.jar!/org/testng/internal/TestMethodWorker.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1275">
@@ -731,15 +655,101 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/utilities/ExtentReports/TestReports/ExtentReportResults.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8.jar!/org/testng/ClassMethodMap.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="952">
           <caret line="69" selection-start-line="69" selection-end-line="69" />
           <folding>
             <element signature="e#2255#2256#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/pages/ResultsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7803">
+          <caret line="506" selection-start-line="506" selection-end-line="506" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/utilities/ExtentReports/ExtentManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/tests/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/tests/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#812#813#0" expanded="true" />
+            <element signature="e#902#903#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/utilities/ExtentReports/Listeners/TestListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities/TestReports/ExtentReports/ExtentReportResults.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/utilities/ExtentReports/TestReports/ExtentReportResults.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java/utilities/ExtentReports/ExtentTestManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -754,23 +764,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/utilities/ExtentReports/Listeners/Retry.java">
+    <entry file="file://$PROJECT_DIR$/src/java/utilities/ExtentReports/Listeners/AnnotationTransformer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="25" column="94" lean-forward="true" selection-start-line="25" selection-start-column="94" selection-end-line="25" selection-end-column="94" />
+        <state relative-caret-position="204">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/utilities/ExtentReports/Listeners/AnnotationTransformer.java">
+    <entry file="file://$PROJECT_DIR$/src/java/utilities/ExtentReports/Listeners/Retry.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="68">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Suite.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
         </state>
       </provider>
     </entry>
